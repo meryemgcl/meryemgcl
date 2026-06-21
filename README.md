@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meryemgcl&" alt="meryemgcl" /></p>
 
 
-![snake gif](https://github.com/meryemgcl/meryemgcl/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg)
