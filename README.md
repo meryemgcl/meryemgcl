@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Meryem</h1>
-<h3 align="center">Application Developer | Python, Data Science & AI Enthusiast</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/main/banner.gif" width="900" alt="banner"/>
-</div>
+<h3 align="center">
+Application Developer | Python, Data Science & AI Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/main/banner.gif" width="900" alt="Banner">
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Programming Graduate from Atatürk University
-- 💻 Passionate about Application Development, Data Science and Artificial Intelligence
-- 🌱 Currently improving myself in Software Testing & Automation
-- 🚀 I enjoy developing Web, Mobile and Desktop Applications
-- 📊 Experienced in Python, Data Analysis and Machine Learning projects
+- 🎓 Computer Programming Graduate
+- 💻 Passionate about Application Development
+- 📊 Interested in Data Science & Artificial Intelligence
+- 🌱 Currently learning Software Testing & Automation
+- 🚀 I enjoy developing Web, Mobile and Desktop applications
 - 📫 Reach me at **meriguclu123@gmail.com**
 
 ---
@@ -21,39 +24,36 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/meryemgüçlü/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+<a href="https://github.com/meryemgcl">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://www.kaggle.com/merygcl" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/meryemgüçlü/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://www.behance.net/meryemgl1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40" height="40"/>
+<a href="https://www.kaggle.com/merygcl">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="35"/>
 </a>
 
-<a href="https://medium.com/@meriguclu" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40"/>
+<a href="https://medium.com/@meriguclu">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="35"/>
 </a>
-</p>
 
----
-
-## 💻 Languages and Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,dart,flutter,cs,mysql,sqlite,git,github,vscode,figma,arduino,unity&perline=8" />
+<a href="https://www.behance.net/meryemgl1">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="35"/>
+</a>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 Languages & Tools
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=meryemgcl&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,dart,flutter,cs,mysql,sqlite,git,github,vscode,figma,arduino,unity&perline=8"/>
+
 </p>
 
 ---
@@ -62,11 +62,11 @@
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
 </p>
 
@@ -76,7 +76,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&la
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meryemgcl&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=meryemgcl&theme=tokyonight"/>
 
 </p>
 
@@ -86,17 +86,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&la
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake-dark.svg">
-
+          srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
-
-  <img alt="github contribution grid snake animation"
+          srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
+  <img alt="Snake"
        src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=meryemgcl&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=meryemgcl&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
