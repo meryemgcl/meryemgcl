@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/meryemgcl/meryemgcl/blob/main/delqjo5-b283b1c3-de19-4cea-965d-858885524bad.png" width="700px" />
+  <img src="https://github.com/meryemgcl/meryemgcl/blob/main/[delqjo5-b283b1c3-de19-4cea-965d-858885524bad.png](https://www.deviantart.com/pixeljeff/art/Spotify-X-Pixel-Jeff-883036949)" width="700px" />
 
 </div>
 
