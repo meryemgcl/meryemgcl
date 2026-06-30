@@ -12,11 +12,11 @@ Application Developer | Python, Data Science & AI Enthusiast
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Programming Graduate
+- 🎓 Computer Programming Graduate from Atatürk University
 - 💻 Passionate about Application Development
-- 📊 Interested in Data Science & Artificial Intelligence
+- 📊 Interested in Data Science, Artificial Intelligence and Machine Learning
 - 🌱 Currently learning Software Testing & Automation
-- 🚀 I enjoy developing Web, Mobile and Desktop applications
+- 🚀 I enjoy developing Web, Mobile and Desktop Applications
 - 📫 Reach me at **meriguclu123@gmail.com**
 
 ---
@@ -24,26 +24,25 @@ Application Developer | Python, Data Science & AI Enthusiast
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://github.com/meryemgcl">
+<a href="https://github.com/meryemgcl" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/meryemgüçlü/">
+<a href="https://www.linkedin.com/in/meryemgüçlü/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://www.kaggle.com/merygcl">
+<a href="https://www.kaggle.com/merygcl" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="35"/>
 </a>
 
-<a href="https://medium.com/@meriguclu">
+<a href="https://medium.com/@meriguclu" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="35"/>
 </a>
 
-<a href="https://www.behance.net/meryemgl1">
+<a href="https://www.behance.net/meryemgl1" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="35"/>
 </a>
-
 </p>
 
 ---
@@ -51,26 +50,17 @@ Application Developer | Python, Data Science & AI Enthusiast
 ## 💻 Languages & Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,dart,flutter,cs,mysql,sqlite,git,github,vscode,figma,arduino,unity&perline=8"/>
-
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<h3 align="left">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<h3 align="left">🔥 GitHub Streak</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meryemgcl&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,9 +68,7 @@ Application Developer | Python, Data Science & AI Enthusiast
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=meryemgcl&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=meryemgcl&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -92,14 +80,12 @@ Application Developer | Python, Data Science & AI Enthusiast
           srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
-  <img alt="Snake"
+  <img alt="Snake Animation"
        src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=meryemgcl&label=Profile+Views&color=0e75b6&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=meryemgcl&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
