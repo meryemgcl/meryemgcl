@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meryem</h1>
 <h3 align="center">Application Developer | Python, Data Science & AI Enthusiast</h3>
 
+<div align="center">
+
+  <img src="https://github.com/meryemgcl/meryemgcl/blob/main/delqjo5-b283b1c3-de19-4cea-965d-858885524bad.gif" width="700px" />
+
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meryemgcl" alt="meryemgcl" /></a> </p>
 
