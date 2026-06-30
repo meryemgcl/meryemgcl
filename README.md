@@ -56,6 +56,7 @@ Application Developer | Python, Data Science & AI Enthusiast
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170"
