@@ -2,7 +2,7 @@
 <h3 align="center">Application Developer | Python, Data Science & AI Enthusiast</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/main/banner.gif" width="900" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/main/banner.gif" width="900" alt="banner"/>
 </div>
 
 ---
