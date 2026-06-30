@@ -60,14 +60,17 @@ Application Developer | Python, Data Science & AI Enthusiast
 
 ## 📊 GitHub Stats
 
+<h3 align="left">📊 GitHub Stats</h3>
+
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<h3 align="left">🔥 GitHub Streak</h3>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=meryemgcl&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
