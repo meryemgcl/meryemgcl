@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/main/banner.gif" width="900" alt="Cat Banner">
+  <img src="banner.gif" width="900" alt="Cat Banner">
 </p>
 
 <div align="center">
