@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Merhaba,%20Ben%20Meryem!&fontSize=70&animation=twinkling&fontAlignY=40&desc=Application%20Developer%20%7C%20Python,%20Data%20Science%20%26%20AI%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Merhaba, Ben Meryem!" />
+  <img src="banner.gif" width="100%" alt="Merhaba, Ben Meryem!" />
 </div>
 
 <div align="center">
