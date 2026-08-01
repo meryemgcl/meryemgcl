@@ -66,11 +66,10 @@
 
 | Project Name | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project 1 Name](#)** | Short description of the project goes here. | `Python`, `Django` | [🔗 Repo](#) \| [🌐 Live](#) |
-| **[Project 2 Name](#)** | Short description of the project goes here. | `Data Science`, `Pandas` | [🔗 Repo](#) \| [🌐 Live](#) |
-| **[Project 3 Name](#)** | Short description of the project goes here. | `Arduino`, `UAV` | [🔗 Repo](#) \| [🌐 Live](#) |
-
-*(Note: These are placeholders. You can update these with your real projects!)*
+| **[Meryem Güçlü Portfolio](https://github.com/meryemgcl/meryem-guclu-portfolio)** | My personal portfolio website showcasing my skills and projects. | `HTML`, `CSS` | [🔗 Repo](https://github.com/meryemgcl/meryem-guclu-portfolio) \| [🌐 Live](https://meryemgcl.github.io/meryem-guclu-portfolio/) |
+| **[AquaGuard App](https://github.com/meryemgcl/aquaguard-app)** | A TypeScript based application project. | `TypeScript` | [🔗 Repo](https://github.com/meryemgcl/aquaguard-app) |
+| **[ML Intro Bootcamp](https://github.com/meryemgcl/Akbank_Makine_Ogrenmesine_Giris_Bootcamp)** | Akbank Introduction to Machine Learning Bootcamp projects and assignments. | `Python`, `Jupyter` | [🔗 Repo](https://github.com/meryemgcl/Akbank_Makine_Ogrenmesine_Giris_Bootcamp) |
+| **[Android Dev Bootcamp](https://github.com/meryemgcl/Android_Gelistirme_Bootcamp)** | Android Development Bootcamp projects. | `Kotlin` | [🔗 Repo](https://github.com/meryemgcl/Android_Gelistirme_Bootcamp) |
 
 ---
 
