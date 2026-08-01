@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Merhaba,%20Ben%20Meryem!&fontSize=70&animation=twinkling&fontAlignY=40&desc=Application%20Developer%20%7C%20Python,%20Data%20Science%20%26%20AI%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Merhaba, Ben Meryem!" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/main/banner.gif" width="900" alt="Cat Banner">
+</p>
+
 <div align="center">
   <!-- Connect with me badges -->
   <a href="https://github.com/meryemgcl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
