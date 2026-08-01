@@ -1,98 +1,102 @@
-<h1 align="center">Hi 👋, I'm Meryem</h1>
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Merhaba,%20Ben%20Meryem!&fontSize=70&animation=twinkling&fontAlignY=40&desc=Application%20Developer%20%7C%20Python,%20Data%20Science%20%26%20AI%20Enthusiast&descAlignY=60&descSize=20" width="100%" alt="Merhaba, Ben Meryem!" />
+</div>
 
-<h3 align="center">
-Application Developer | Python, Data Science & AI Enthusiast
-</h3>
+<div align="center">
+  <!-- Connect with me badges -->
+  <a href="https://github.com/meryemgcl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/meryemgüçlü/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/merygcl"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://medium.com/@meriguclu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.behance.net/meryemgl1"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/main/banner.gif" width="900" alt="Banner">
-</p>
+<br>
+
+## 👩‍💻 About Me & Interests
+
+- 🎓 **Education:** Computer Programming Graduate from Atatürk University
+- 🚀 **Mission:** Passionate about Application Development and creating impactful solutions
+- 💡 **Interests:** Artificial Intelligence, Data Science, Autonomous Systems, and Web Development
+- 🌱 **Currently Learning:** Software Testing & Automation
+- 📫 **Contact:** meriguclu123@gmail.com
 
 ---
 
-## 👩‍💻 About Me
+## 🛠️ Skills & Technologies
 
-- 🎓 Computer Programming Graduate from Atatürk University
-- 💻 Passionate about Application Development
-- 📊 Interested in Data Science, Artificial Intelligence and Machine Learning
-- 🌱 Currently learning Software Testing & Automation
-- 🚀 I enjoy developing Web, Mobile and Desktop Applications
-- 📫 Reach me at **meriguclu123@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
+### 💻 Programming & Web
 <p align="left">
-<a href="https://github.com/meryemgcl">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<a href="https://www.linkedin.com/in/meryemgüçlü/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+### 📊 Data Science & Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPSS-CC292B?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-<a href="https://www.kaggle.com/merygcl">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="35"/>
-</a>
+### 🤖 Hardware & Autonomous
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAV%2FDrone_Systems-FF0000?style=for-the-badge&logo=dji&logoColor=white" />
+</p>
 
-<a href="https://medium.com/@meriguclu">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="35"/>
-</a>
-
-<a href="https://www.behance.net/meryemgl1">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="35"/>
-</a>
+### ⚙️ Tools & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Languages & Tools
+## 🌟 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,dart,flutter,cs,mysql,sqlite,git,github,vscode,figma,arduino,unity&perline=8"/>
-</p>
+| Project Name | Description | Technologies | Links |
+| :--- | :--- | :--- | :--- |
+| **[Project 1 Name](#)** | Short description of the project goes here. | `Python`, `Django` | [🔗 Repo](#) \| [🌐 Live](#) |
+| **[Project 2 Name](#)** | Short description of the project goes here. | `Data Science`, `Pandas` | [🔗 Repo](#) \| [🌐 Live](#) |
+| **[Project 3 Name](#)** | Short description of the project goes here. | `Arduino`, `UAV` | [🔗 Repo](#) \| [🌐 Live](#) |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+*(Note: These are placeholders. You can update these with your real projects!)*
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 GitHub Statistics
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=meryemgcl&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=meryemgcl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=meryemgcl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="192" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=meryemgcl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
-
-  <img alt="Snake Animation"
-       src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/meryemgcl/meryemgcl/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=meryemgcl&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meryemgcl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
