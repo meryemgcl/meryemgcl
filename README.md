@@ -1,6 +1,8 @@
 <!-- Banner -->
 <div align="center">
-  <img src="banner.gif" width="100%" alt="Merhaba, Ben Meryem!" />
+  <h1>👋 Hello, I'm Meryem!</h1>
+  <h3>Application Developer | Python, Data Science & AI Enthusiast</h3>
+  <img src="banner.gif" width="100%" alt="Hello, I'm Meryem!" />
 </div>
 
 <div align="center">
